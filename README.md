@@ -31,7 +31,6 @@
           <li>dogsitters</li>
           <li>strolls</li>
           <li>cities</li>
-          <li>specialties</li>
           <li>join_table_dog_strolls</li>
         </ul>
      </div>
